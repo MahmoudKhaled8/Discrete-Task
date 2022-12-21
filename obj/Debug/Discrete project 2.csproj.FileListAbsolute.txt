@@ -1,0 +1,8 @@
+C:\Users\MAHMOUD\source\repos\Discrete project 2\Discrete project 2\bin\Debug\Discrete project 2.exe.config
+C:\Users\MAHMOUD\source\repos\Discrete project 2\Discrete project 2\bin\Debug\Discrete project 2.exe
+C:\Users\MAHMOUD\source\repos\Discrete project 2\Discrete project 2\bin\Debug\Discrete project 2.pdb
+C:\Users\MAHMOUD\source\repos\Discrete project 2\Discrete project 2\obj\Debug\Discrete project 2.csproj.AssemblyReference.cache
+C:\Users\MAHMOUD\source\repos\Discrete project 2\Discrete project 2\obj\Debug\Discrete project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAHMOUD\source\repos\Discrete project 2\Discrete project 2\obj\Debug\Discrete project 2.csproj.CoreCompileInputs.cache
+C:\Users\MAHMOUD\source\repos\Discrete project 2\Discrete project 2\obj\Debug\Discrete project 2.exe
+C:\Users\MAHMOUD\source\repos\Discrete project 2\Discrete project 2\obj\Debug\Discrete project 2.pdb
